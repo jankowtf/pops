@@ -1,0 +1,21 @@
+Package: pops
+Type: Package
+Title: Options management for R packages
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Janko",
+           family = "Thyson",
+           role = c("aut", "cre"),
+           email = "janko@rappster.io")
+Maintainer: <janko@rappster.io>
+Description: Initializing, getting and setting of package options.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+Imports: 
+    lifecycle

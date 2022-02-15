@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^devops$
+^inst/examples$
+^tests$
